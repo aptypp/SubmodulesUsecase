@@ -7,4 +7,13 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Content Include="Submodules\Module1\.git" />
+      <Content Include="Submodules\Module1\.idea\.idea.Submodule\.idea\.gitignore" />
+      <Content Include="Submodules\Module1\.idea\.idea.Submodule\.idea\indexLayout.xml" />
+      <Content Include="Submodules\Module1\.idea\.idea.Submodule\.idea\vcs.xml" />
+      <Content Include="Submodules\Module1\Submodule.sln" />
+      <Content Include="Submodules\Module1\Submodule\Submodule.csproj" />
+    </ItemGroup>
+
 </Project>
